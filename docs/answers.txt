@@ -43,3 +43,7 @@ i)
 j)
 	With such a large team, it would be very easy for one developer to be working on an older version of the "blessed" repository, the lieutant repositories would make sure nothing is being broken.
 
+Polymorphism/Encapsulation
+Both polymorphism and encapsulation are used. 
+The hit function is overloaded by the weapon classes, polymorphism.
+Classes use inheritance, encapsulation.
